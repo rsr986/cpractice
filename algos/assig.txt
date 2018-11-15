@@ -1,0 +1,23 @@
+Searching algos:
+----------------
+1. Linear Search
+2. Binary Search
+3. Jump Search
+4. Interpolation Search
+5. Exponential Search
+6. Ternary Search
+
+Sorting alogs:
+--------------
+1. Selection Sort
+2. Bubble Sort
+3. Insertion Sort
+4. Merge Sort
+5. Heap Sort
+6. Quick Sort
+7. Radix Sort
+8. Counting Sort
+9. Bucket Sort
+10. Shell Sort
+11. Comb Sort
+12. Pigeonhole Sort
